@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  BmiApp
 //
-//  Created by Lin on 2021/12/8.
+//  Created by Kgcoc on 2021/12/8.
 //
 
 import UIKit
